@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Workshop2</string>
+    <string name="public_talk">Public Talk</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="join_talk">Join Talk</string>
+    <string name="chat">Chat</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_search">Search</string>
+</resources>
